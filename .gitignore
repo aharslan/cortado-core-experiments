@@ -1,0 +1,15 @@
+.idea
+debug.log
+./.idea
+__pycache__
+.vscode/
+*.xes
+.venv
+outputs/
+pm4py/
+.pytest_cache
+*.csv
+
+!experiments/**/hospital_billing_low_freq_filtered.xes
+experiments/granularity/figures/
+experiments/granularity/results/

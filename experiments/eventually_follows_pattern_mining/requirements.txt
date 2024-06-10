@@ -1,0 +1,12 @@
+matplotlib==3.5.2
+numpy>=1.21.2
+cycler
+networkx==2.8.5
+tqdm==4.64.0
+ortools
+antlr4-python3-runtime==4.8
+scikit-learn
+parameterized==0.8.1
+pyclustering==0.10.1
+zss==1.2.0
+seaborn
